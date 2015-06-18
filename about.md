@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Nick Lashinsky's website and blog - a weirdo who studied physics, worked in sales to learn how to build businesses, and then moved to Silicon valley to continue the adventure. I like to write about product, startups and people. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Background: I moved to Silicon Valley from NY, and have worked in both non-VC backed and VC backed startups. I like to argue. But I love to learn and build stuff.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+
+
+
