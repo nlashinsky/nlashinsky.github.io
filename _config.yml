@@ -14,4 +14,3 @@ markdown: kramdown
 defaults: 
 - 
 layout: "default"
-`
