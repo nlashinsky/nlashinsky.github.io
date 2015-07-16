@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Healthy stretch-marks: The most basic tensions between sales and engineering teams provide valuable signals - why startup leadership should listen very closely."
+title:  "Healthy stretch-marks: Tension between sales and engineering provide valuable signals - why CEO's should listen closely"
 date:   2015-07-16 04:00:00
 ---
 
@@ -11,7 +11,7 @@ In software, during healthy growth due to positive market adoption, if sales is 
 
 At Keen IO, I knew it was a good sign we were growing healthily because when I met with our CTO to plan the on-boarding of new customers, it became increasingly difficult to find time on calendars, due to the other scheduled customer implementations. Whether your delivery team is 1, or 10, this signal is always a very positive indicator that the market still wants more of what you're selling, and there's valid justification for growth.  During this process, your sales and delivery teams are learning how to negotiate and cooperate with each other.  During negotiations, when resources are constrained, priorities from each side will emerge into being more visible, as will power dynamics. 
 
-Reacting to this signal:
+**Reacting to this signal:**
 
 For many CEO's, as they recognize this signal, they are ready to pour more time, energy and resources into the revenue generation engines, and as little as other resources needed to support that. And that's generally a healthy business inclination: try to minimize costs to the business for on-boarding new customers, especially expensive time from your software engineering team, while doubling down on a positive reaction from the market. 
 
