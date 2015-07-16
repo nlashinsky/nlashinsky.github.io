@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Welcome to Nick Lashinsky's website and blog - a weirdo who studied physics, worked in sales to learn how to build businesses, and then moved to Silicon valley to continue the adventure to learn how to build amazing software products peoople love.  Software products and experiences that will actually change how we do things, like learn and work, forever. I like to write about product, startups and people. 
+Hi, I'm Nick Lashinsky, welcome to my blog. 
 
-Background: I moved to Silicon Valley from NY, and have worked in both non-VC backed and VC backed startups. I like to argue. But I love to learn and build stuff.
 
-I love meeting new people in person, especially those with very different perspectives or opinions than my own. Let's have a cup of coffee sometime.
+I studied physics, engineering, but have primiarily worked in hands-on and analytical growth functions at various startups, both venture and non-vc backed. I chose to move to Silicon Valley because I love working with people who think optimistically about the future, technology and business. I'm passionate about building products people love and fast-growing, sustainable businesses on top of them. I like to write, think and talk about product development, startups, economics and people. 
 
+While I like a good argument, I try really hard to listen and process, and I highly value opinions when they come from people with diverse life experiences. I love meeting new people in person, especially those with very different perspectives or opinions than my own. Let's have a cup of coffee sometime.
 
